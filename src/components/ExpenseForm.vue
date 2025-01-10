@@ -9,7 +9,7 @@
   
   <script lang="ts">
   import { defineComponent, ref } from "vue";
-  import { addExpense } from "@/store/expenses";
+  import { addExpense } from "../store/expenses";
   
   export default defineComponent({
     setup() {
@@ -27,5 +27,4 @@
       return { category, date, amount, handleSubmit };
     },
   });
-  </script>
-  
+  </script>  

@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
   <v-card>
     <v-card-title>Tabela de Usuários</v-card-title>
     <v-card-text>
@@ -39,4 +39,4 @@ export default defineComponent({
 .v-data-table {
   max-width: 100%;
 }
-</style>
+</style> -->

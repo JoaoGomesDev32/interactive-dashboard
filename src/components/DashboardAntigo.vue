@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
   <v-container>
     <v-row>
       <v-col cols="12" md="6">
@@ -20,4 +20,4 @@ export default defineComponent({
   name: "DashboardComponent",
   components: { ChartComponent, DataTable },
 });
-</script>
+</script> -->
