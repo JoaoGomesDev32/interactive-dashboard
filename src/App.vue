@@ -1,15 +1,11 @@
 <template>
   <v-app>
-    <Home />
+    <router-view />
   </v-app>
 </template>
 
 <script lang="ts">
 import { defineComponent } from "vue";
-import Home from "@/views/HomeView.vue";
 
-export default defineComponent({
-  name: "App",
-  components: { Home },
-});
+export default defineComponent({});
 </script>
